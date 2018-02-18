@@ -38,7 +38,7 @@
     "dora-plugin-webpack": "^0.6.4",
     "es3ify": "^0.2.1",
     "es3ify-loader": "^0.2.0",
-    "gh-pages": "^0.11.0",
+    "gh-pages": "^1.0.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "merge-stream": "^1.0.0",
